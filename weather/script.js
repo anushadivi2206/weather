@@ -4,7 +4,7 @@ let search = document.getElementById("search");
 let cityVal = document.getElementById("city");
 
 //Make sure you have your own key.
-let key = "2a4a9c0aab5443da14e161fd22677026";
+let key = "11a95fade6fba229f8c8be4b1d8ed860";
 
 
 let getWeather = () => {
