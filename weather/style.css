@@ -23,7 +23,7 @@ html{
     font-family: 'Poppins', sans-serif;
 }
 body {
-    background: url('background.jpg');
+    background: url('weather/background.jpg');
     background-position: center;
     background-size: cover;
     width: 100%;
